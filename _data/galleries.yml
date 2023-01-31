@@ -1,0 +1,32 @@
+- id: gallery1
+  description: Gallery
+  imagefolder: /img/demopage
+  
+  images:
+  - name: image-1.jpg
+    thumb: bg1.jpg
+    text: Goya, Woman, IRR
+  - name: image-2.jpg
+    thumb: bg2.jpg
+    text: Goya, Woman, IRR
+  - name: image-3.jpg
+    thumb: bg3.jpg
+    text: Goya, Woman, x-ray
+  - name: image-4.jpg
+    thumb: bg4.jpg
+    text: Goya, Woman, grazing
+  - name: image-5.jpg
+    thumb: bg5.jpg
+    text: Goya, Woman, UV
+  - name: image-6.jpg
+    thumb: bg6.jpg
+    text: Goya, Woman, UV
+  - name: image-7.jpg
+    thumb: bg7.jpg
+    text: Goya, Woman, visible
+  - name: image-8.jpg
+    thumb: bg8.jpg
+    text: Goya, Woman, visible
+  - name: image-9.jpg
+    thumb: bg9.jpg
+    text: Goya, Woman, visible

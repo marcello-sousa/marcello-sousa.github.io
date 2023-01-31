@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<script src="/js/lightbox-plus-jquery.min.js"></script>
+<script src="/js/lightbox.min.js"></script>
+<link href="/css/lightbox.css" rel="stylesheet" />
+
+{% for gallery in site.data.galleries %}
+  {% if gallery.id == page.galleryid %}
+    <h1>{{ gallery.description }}</h1>
+    <ol>
+    {% for image in gallery.images %}
+        <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="70" height="100">
+        </a>      
+    {% endfor %}
+    </ol>
+  {% endif %}
+{% endfor %}
