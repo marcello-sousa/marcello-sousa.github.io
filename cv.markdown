@@ -47,7 +47,7 @@ Passionate about machine learning and image processing, eager to apply these to 
 **Position:** Teacher of Physics and Mathematics <br>
 **Admission:** 02/02/2007 - **Exit:** 07/01/2012
 
-**Enterusp pre-university course (Itapecerica da Serra)** <br>
+**Enterusp pre-university course** <br>
 **Position:** Professor of Physics and Mathematics <br>
 **Admission:** 03/2007 - **Exit:** 12/2007
 
