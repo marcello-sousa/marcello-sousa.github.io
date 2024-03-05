@@ -41,7 +41,7 @@ Passionate about machine learning and image processing, eager to apply these to 
 
 **Tribunal de Justiça do Estado de São Paulo**<br>
 **Position:** Escrevente Judiciário <br>
-**Admission:** 21/08/2012 - **Exit:** 10/04/
+**Admission:** 21/08/2012 - **Exit:** 10/04/2023
 
 **E.E. Julia de Castro Carneiro** <br>
 **Position:** Teacher of Physics and Mathematics <br>
