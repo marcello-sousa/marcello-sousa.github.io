@@ -9,7 +9,7 @@ permalink: /cv/
 ### Personal Details
 
 **Name:** Marcelo de Sousa <br>
-**Email:** marcelo.sousa@usp.br  <br>
+**Email:** marcelo.sousa@usp.br / marcelosousa@tecgraf.puc-rio.br <br>
 **Date of birth:** 16/09/1982  <br>
 **Nationality:** Brazil  <br>
 **Marital Status:** Single  <br>
@@ -35,34 +35,27 @@ Passionate about machine learning and image processing, eager to apply these to 
 
 ### Related Work Experience
 
-**CEFAM “Samuel Cremm” (Public School)** <br>
-**Position:** Administrative Assistant <br>
-**Activities performed:** Telephone answering, customer service, confection
-transcripts and school certificates, payment of teachers and organization of archives <br>
-**Admission:** 03/01/01 - **Exit:** 12/30/02
+**Tecgraf - PUC-Rio (since April 2023)**<br>
+**Position:** Computer Vision Specilist / Machine Learning Specialist <br>
+**Activities Performed:** Specialized in image segmentation, semantic segmentation, object detection, and diffusion models such as Stable Diffusion and ControlNet, with a focus on state-of-the-art techniques for SAS sonar images. Contributed significantly to the Jellyfish project in collaboration with Kraken and Shell, leveraging expertise in computer vision to enhance the accuracy and efficiency of underwater imaging and analysis. This role demanded a deep understanding of both theoretical concepts and practical applications in computer vision, enabling the development of innovative solutions for complex imaging challenges.
+
+**Tribunal de Justiça do Estado de São Paulo**<br>
+**Position:** Escrevente Judiciário <br>
+**Admission:** 21/08/2012 - **Exit:** 10/04/
+
+**E.E. Julia de Castro Carneiro** <br>
+**Position:** Teacher of Physics and Mathematics <br>
+**Admission:** 02/02/2007 - **Exit:** 07/01/2012
+
+**Enterusp pre-university course (Itapecerica da Serra)** <br>
+**Position:** Professor of Physics and Mathematics <br>
+**Admission:** 03/2007 - **Exit:** 12/2007
 
 **NEA “Youth and Adult Education Center”** <br>
 **Faculty of Education of the University of São Paulo (FEUSP)** <br>
 **Position:** Trainee Professor <br>
 **Activities developed at FEUSP, HU (University Hospital) and Museu Paulista da USP (Museu do Ipiranga):** Preparation and correction of didactic material; participation in scientific initiation activities, with a presentation at the 12th SIICUSP (International Symposium of Scientific Initiation at USP); in addition to the activities corresponding to the role of teacher. <br>
 **Admission:** 09/15/03 - **Exit:** 06/03/06
-
-**Enterusp pre-university course (Itapecerica da Serra)** <br>
-**Position:** Professor of Physics and Mathematics <br>
-**Admission:** 03/2007 - **Exit:** 12/2007
-
-**E.E. Julia de Castro Carneiro** <br>
-**Position:** Professor of Physics and Mathematics <br>
-**Admission:** 02/02/2007 - **Exit:** 07/01/2012
-
-**Tribunal de Justiça do Estado de São Paulo**<br>
-**Position:** Escrevente Judiciário <br>
-**Admission:** 21/08/2012 - **Exit:** 10/04/2023
-
-***Tecgraf - PUC-Rio (since April 2024)***<br>
-
-**Position:** Computer Vision Specialist / Machine Learning Specialist <br>
-**Activities Performed:** Specialized in image segmentation, semantic segmentation, object detection, and diffusion models such as Stable Diffusion and ControlNet, with a focus on state-of-the-art techniques for SAS sonar images. Contributed significantly to the Jellyfish project in collaboration with Kraken and Shell, leveraging expertise in computer vision to enhance the accuracy and efficiency of underwater imaging and analysis. This role demanded a deep understanding of both theoretical concepts and practical applications in computer vision, enabling the development of innovative solutions for complex imaging challenges.
 
 ----------------
 
@@ -82,12 +75,7 @@ transcripts and school certificates, payment of teachers and organization of arc
 **Discipline:** Image Processing and trends <br>
 **Teacher:** Luiz Velho <br>
 **Visgraf** <br>
-**Year:** 2/2022<br>
-
-**Discipline:** Image Processing and trends <br>
-**Teacher:** Luiz Velho <br>
-**Visgraf** <br>
-**Year:** 2/2023<br>
+**Year:** 2/2023 and 2/2022<br>
 
 **Discipline:** Markov Chain <br>
 **Teacher:** Milton Jara <br>
@@ -124,7 +112,7 @@ transcripts and school certificates, payment of teachers and organization of arc
 ### Mini-Courses <br>
 
 **Discipline:** Tiling on the Plan <br>
-**Teacher:** J. Ezequiel Soto S. <br>
+**Teacher:** Luiz Henrique de Figueiredo and J. Ezequiel Soto S.<br>
 **Visgraf** <br>
 **Year:** summer/2021 <br>
 
@@ -138,7 +126,7 @@ transcripts and school certificates, payment of teachers and organization of arc
 
 --------------------------
 
-### Other skills
+### Additional
 
-**Brazilian Portuguese:** native <br>
-**English:** intermediary 3 (Cultura Inglesa) - current <br>
+**Brazilian Portuguese:** Native <br>
+**English:** intermediary 3 (Cultura Inglesa) - Current <br>
