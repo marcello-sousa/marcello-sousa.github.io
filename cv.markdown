@@ -23,23 +23,13 @@ permalink: /cv/
 Java, Python, C++, C, Git.
 
 **Frameworks** <br>
-Scikit-Learn, Pytorch, Tensorflow, Pandas, Numpy, PIL, OpenCV, Seborn.
+Scikit-Learn, Pytorch, Tensorflow, Pandas, Numpy, PIL, OpenCV, Seborn. <br>
 
 ---------------
 
-**Interests and Additional Skills**
+### Interests and Additional Skills
 
-Deeply fascinated with the evolving landscape of machine learning and image processing technologies, especially when applied to addressing complex environmental and scientific challenges. Committed to leveraging state-of-the-art technological solutions to solve intricate issues. <br>
-
-Demonstrates an unwavering dedication to progressing in the fields of mathematics and computer science, with a particular emphasis on stochastic models. This includes a profound interest in the study of stochastic processes, probability theory, and their diverse applications across various disciplines, showcasing a strong foundation in advanced mathematical concepts and techniques. <br>
-
-Actively explores the capabilities and mathematical frameworks underlying Large Language Models, aiming to understand and innovate upon the algorithms that drive them. This exploration underscores a broader ambition to integrate complex mathematical theories with cutting-edge artificial intelligence research. <br>
-
-Skilled in advanced segmentation and object detection methods, applying these techniques to enhance the accuracy and efficiency of data analysis and automation. This proficiency highlights a broader ability to leverage mathematical insights to address real-world challenges through computer vision. <br>
-
-Engages with the intricate world of stochastic processes, statistical mechanics, Markov chains, and probability models, with a keen focus on their application in predicting and modeling complex systems. This interest extends to exploring the statistical underpinnings of physical phenomena and employing these models to gain insights into the dynamics of systems across physics, finance, and beyond. <br>
-
-Thrives in collaborative projects that strive to advance technological and innovative boundaries, particularly those with substantial contributions to our comprehension and engagement with the world. This enthusiasm for collaborative exploration is paired with a commitment to applying mathematical and computational strategies to pioneer novel solutions and breakthroughs. <br>
+Passionate about machine learning and image processing, eager to apply these to environmental and scientific challenges using cutting-edge technology. Deeply committed to advancing in mathematics and computer science, with a focus on stochastic models and their applications. Engaged in understanding and developing Large Language Models, blending complex math with AI research. Proficient in segmentation and object detection, leveraging these skills for effective data analysis. Invested in stochastic processes, statistical mechanics, and probability models for system modeling across various fields. Enjoys teamwork on innovative projects, aiming to use math and computing to create new solutions.
 
 
 ### Related Work Experience
