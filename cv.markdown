@@ -29,8 +29,9 @@ Scikit-Learn, Pytorch, Tensorflow, Pandas, Numpy, PIL, OpenCV, Seborn. <br>
 
 ### Interests and Additional Skills
 
-Passionate about machine learning and image processing, eager to apply these to environmental and scientific challenges using cutting-edge technology. Deeply committed to advancing in mathematics and computer science, with a focus on stochastic models and their applications. Engaged in understanding and developing Large Language Models, blending complex math with AI research. Proficient in segmentation and object detection, leveraging these skills for effective data analysis. Invested in stochastic processes, statistical mechanics, and probability models for system modeling across various fields. Enjoys teamwork on innovative projects, aiming to use math and computing to create new solutions.
+Passionate about machine learning and image processing, eager to apply these to environmental and scientific challenges using cutting-edge technology. Deeply committed to advancing in mathematics and computer science, with a focus on stochastic models and their applications. Engaged in understanding and developing Large Language Models, blending complex math with AI research. Proficient in segmentation and object detection, leveraging these skills for effective data analysis. Invested in stochastic processes, statistical mechanics, and probability models for system modeling across various fields. Enjoys teamwork on innovative projects, aiming to use math and computing to create new solutions. <br>
 
+---------------
 
 ### Related Work Experience
 
