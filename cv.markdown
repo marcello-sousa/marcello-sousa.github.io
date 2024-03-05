@@ -27,6 +27,21 @@ Scikit-Learn, Pytorch, Tensorflow, Pandas, Numpy, PIL, OpenCV, Seborn.
 
 ---------------
 
+**Interests and Additional Skills**
+
+Deeply fascinated with the evolving landscape of machine learning and image processing technologies, especially when applied to addressing complex environmental and scientific challenges. Committed to leveraging state-of-the-art technological solutions to solve intricate issues. <br>
+
+Demonstrates an unwavering dedication to progressing in the fields of mathematics and computer science, with a particular emphasis on stochastic models. This includes a profound interest in the study of stochastic processes, probability theory, and their diverse applications across various disciplines, showcasing a strong foundation in advanced mathematical concepts and techniques. <br>
+
+Actively explores the capabilities and mathematical frameworks underlying Large Language Models, aiming to understand and innovate upon the algorithms that drive them. This exploration underscores a broader ambition to integrate complex mathematical theories with cutting-edge artificial intelligence research. <br>
+
+Skilled in advanced segmentation and object detection methods, applying these techniques to enhance the accuracy and efficiency of data analysis and automation. This proficiency highlights a broader ability to leverage mathematical insights to address real-world challenges through computer vision. <br>
+
+Engages with the intricate world of stochastic processes, statistical mechanics, Markov chains, and probability models, with a keen focus on their application in predicting and modeling complex systems. This interest extends to exploring the statistical underpinnings of physical phenomena and employing these models to gain insights into the dynamics of systems across physics, finance, and beyond. <br>
+
+Thrives in collaborative projects that strive to advance technological and innovative boundaries, particularly those with substantial contributions to our comprehension and engagement with the world. This enthusiasm for collaborative exploration is paired with a commitment to applying mathematical and computational strategies to pioneer novel solutions and breakthroughs. <br>
+
+
 ### Related Work Experience
 
 **CEFAM “Samuel Cremm” (Public School)** <br>
@@ -51,7 +66,12 @@ transcripts and school certificates, payment of teachers and organization of arc
 
 **Tribunal de Justiça do Estado de São Paulo**<br>
 **Position:** Escrevente Judiciário <br>
-**Admission:** 21/08/2012 - **Exit:** Current
+**Admission:** 21/08/2012 - **Exit:** 10/04/2023
+
+***Tecgraf - PUC-Rio (since April 2024)***<br>
+
+**Position:** Computer Vision Specialist / Machine Learning Specialist <br>
+**Activities Performed:** Specialized in image segmentation, semantic segmentation, object detection, and diffusion models such as Stable Diffusion and ControlNet, with a focus on state-of-the-art techniques for SAS sonar images. Contributed significantly to the Jellyfish project in collaboration with Kraken and Shell, leveraging expertise in computer vision to enhance the accuracy and efficiency of underwater imaging and analysis. This role demanded a deep understanding of both theoretical concepts and practical applications in computer vision, enabling the development of innovative solutions for complex imaging challenges.
 
 ----------------
 
@@ -68,10 +88,15 @@ transcripts and school certificates, payment of teachers and organization of arc
 
 #### <strong>Institute of Pure and Applied Mathematics (IMPA)</strong> <br>
 
-**Discipline:** Image Processing <br>
+**Discipline:** Image Processing and trends <br>
 **Teacher:** Luiz Velho <br>
 **Visgraf** <br>
 **Year:** 2/2022<br>
+
+**Discipline:** Image Processing and trends <br>
+**Teacher:** Luiz Velho <br>
+**Visgraf** <br>
+**Year:** 2/2023<br>
 
 **Discipline:** Markov Chain <br>
 **Teacher:** Milton Jara <br>
@@ -125,4 +150,4 @@ transcripts and school certificates, payment of teachers and organization of arc
 ### Other skills
 
 **Brazilian Portuguese:** native <br>
-**English:** intermediary (Cultura Inglesa) <br>
+**English:** intermediary 3 (Cultura Inglesa) - current <br>
