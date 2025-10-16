@@ -10,13 +10,15 @@ permalink: /cv/
 **Phone:** +55 (11) 2566-6883 • +55 (11) 98326-7781  
 **Location:** Brazil
 
---- <br>
+--- 
+<br>
 
 ## Professional Summary
 
 Machine Learning specialist with combined experience in **Computer Vision** (SAS sonar, segmentation, detection, diffusion models) and **LLM/Generative AI** (fine-tuning, RAG, LangChain/LangGraph, code generation). Strong track record taking research to production: dataset quality and guardrails, reproducible training, rigorous evaluation (**pass@1**, latency/TTFT, tokens/s), and containerized deployments on NVIDIA GPUs. Client-facing delivery for **Shell** (CV) and **Petrobras** (LLM).
 
---- <br>
+--- 
+<br>
 
 ## Skills
 
@@ -28,7 +30,8 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 - **CV/Diffusion:** Stable Diffusion, ControlNet; semantic/instance segmentation; object detection  
 - **Cloud & APIs:** OpenAI / Azure OpenAI, Vertex AI (Gemini)
 
---- <br>
+--- 
+<br>
 
 ## Work Experience
 
@@ -41,7 +44,8 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 - Operated across **OpenAI/Azure OpenAI** and **Vertex AI (Gemini)**; enabled local inference via **vLLM/NIM**; implemented token accounting, model selection, and throughput/latency benchmarking (incl. **TTFT** warm-ups).  
 - Containerized training/inference, reproducible YAML configs, artifact versioning; strict train/dev vs. final GT separation to improve reliability and reduce false safety blocks.
 
---- <br>
+--- 
+<br>
 
 #### Instituto Tecgraf – PUC-Rio · **Computer Vision / ML Specialist**  
 **Apr 2023 – Feb 2024** · **Client:** Shell (Jellyfish project, with Kraken)
@@ -49,35 +53,41 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 - Specialized in image & semantic segmentation, object detection, and diffusion models (**Stable Diffusion**, **ControlNet**) for **SAS sonar** imagery.  
 - Delivered production-grade CV pipelines improving underwater imaging accuracy and analysis throughput; bridged advanced research and practical deployment.
 
---- <br>
+--- 
+<br>
 
 #### Tribunal de Justiça do Estado de São Paulo · **Escrevente Judiciário**  
 **Aug 2012 – Apr 2023**
 
---- <br>
+--- 
+<br>
 
 #### E.E. Júlia de Castro Carneiro · **Teacher of Physics and Mathematics**  
 **Feb 2007 – Jan 2012**
 
---- <br>
+--- 
+<br>
 
 #### Enterusp Pre-University Course · **Professor of Physics and Mathematics**  
 **Mar 2007 – Dec 2007**
 
---- <br>
+--- 
+<br>
 
 #### NEA – Youth and Adult Education Center • FEUSP · **Trainee Professor**  
 **Sep 2003 – Jun 2006**  
 Prepared and reviewed didactic material; participated in research/extension at FEUSP, HU, and Museu Paulista (Museu do Ipiranga); presented at the **12th SIICUSP** (USP international undergraduate research symposium).
 
---- <br>
+--- 
+<br>
 
 ## Education
 
 **University of São Paulo (USP), Institute of Physics (IFUSP)**  
 **Undergraduate degree in Physics (2003–2009)**
 
---- <br>
+--- 
+<br>
 
 ## Graduate-Level Coursework
 
@@ -94,19 +104,22 @@ Prepared and reviewed didactic material; participated in research/extension at F
 - Algorithms for Graphs — *Marcel Kenji* (2021/2)  
 - Data Structures and Manipulation — *Guilherme Mota* (2022/1)
 
---- <br>
+--- 
+<br>
 
 ## Mini-Courses
 
 - Tiling on the Plane — *Luiz Henrique de Figueiredo, J. Ezequiel Soto S.* (Summer 2021, Visgraf)
 
---- <br>
+--- 
+<br>
 
 ## Other Courses
 
 - Bayesian Methods for Machine Learning — *HSE University (Russia)* (2022/2)
 
---- <br>
+--- 
+<br>
 
 ## Languages
 
