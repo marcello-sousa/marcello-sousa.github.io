@@ -4,140 +4,114 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
----------------
+# Marcelo de Sousa
 
-### Personal Details
+**Email:** marcelo.sousa@usp.br • marcelosousa@tecgraf.puc-rio.br  
+**Phone:** +55 (11) 2566-6883 • +55 (11) 98326-7781  
+**Location:** Brazil
 
-**Name:** Marcelo de Sousa <br>
-**Email:** marcelo.sousa@usp.br / marcelosousa@tecgraf.puc-rio.br <br>
-**Date of birth:** 16/09/1982  <br>
-**Nationality:** Brazil  <br>
-**Marital Status:** Single  <br>
-**Contact:** (11) 2566-6883 or (11) 983267781 <br>
+> *Note: For international applications, you can omit Date of Birth and Marital Status.*
 
----------------
+---
 
-### Skills
+## Professional Summary
 
-**Programming** <br>
-Java, Python, C++, C, Git.
+Machine Learning specialist with combined experience in **Computer Vision** (SAS sonar, segmentation, detection, diffusion models) and **LLM/Generative AI** (fine-tuning, RAG, LangChain/LangGraph, code generation). Strong track record taking research to production: dataset quality and guardrails, reproducible training, rigorous evaluation (**pass@1**, latency/TTFT, tokens/s), and containerized deployments on NVIDIA GPUs. Client-facing delivery for **Shell** (CV) and **Petrobras** (LLM).
 
-**Frameworks** <br>
-Scikit-Learn, Pytorch, Tensorflow, Pandas, Numpy, PIL, OpenCV, Seborn. <br>
+---
 
----------------
+## Skills
 
-### Interests and Additional Skills
+- **Programming:** Python, Java, C++, C, Lua, SQL, Bash, Git  
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Diffusers, Transformers  
+- **LLM/GenAI:** Fine-tuning (LoRA/QLoRA, Unsloth), LangChain, LangGraph, vLLM, NIM, prompt design, RAG, tool-calling, evaluation (pass@1, perplexity)  
+- **Data & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Dev & MLOps:** Docker, NVIDIA GPUs (A100/RTX), Triton, YAML config pipelines, artifact/version management  
+- **CV/Diffusion:** Stable Diffusion, ControlNet; semantic/instance segmentation; object detection  
+- **Cloud & APIs:** OpenAI / Azure OpenAI, Vertex AI (Gemini)
 
-Passionate about machine learning and image processing, eager to apply these to environmental and scientific challenges using cutting-edge technology. Deeply committed to advancing in mathematics and computer science, with a focus on stochastic models and their applications. Engaged in understanding and developing Large Language Models, blending complex math with AI research. Proficient in segmentation and object detection, leveraging these skills for effective data analysis. Invested in stochastic processes, statistical mechanics, and probability models for system modeling across various fields. Enjoys teamwork on innovative projects, aiming to use math and computing to create new solutions. <br>
+---
 
----------------
+## Work Experience
 
-### Related Work Experience
+### Instituto Tecgraf – PUC-Rio · **LLM / Generative AI Specialist**  
+**Feb 2024 – Present** · **Client:** Petrobras (domain code generation & RAG)
 
-**Insituto Tecgraf - PUC-Rio (since February 2024)**<br>
-**Position:** LLM / Generative AI Specialist<br>
-**Client:** Petrobras (domain code generation & RAG initiatives)<br>
-**Activities Performed:** Led fine-tuning and adaptation of open-source LLMs (e.g., Mistral 3.2-24B, Qwen-Coder-7B) using LoRA/QLoRA and Unsloth; curated and canonicalized datasets with robust guardrails. Built a domain-specific **code generation** pipeline for Lua/Geresim using **LangChain** and **LangGraph**, with structured prompts, helper assertions, and automatic Python↔Lua (Lupa) execution and evaluation (pass@1, runtime success). Designed **RAG** and tool-calling workflows with deterministic controllers (retries, failure handling) and domain safety constraints for petroleum engineering contexts. Operated across **OpenAI/Azure OpenAI** and **Vertex AI (Gemini)**, plus local inference via **vLLM/NIM**, implementing token accounting, model selection, and throughput/latency benchmarking (including TTFT warm-ups). Containerized training/inference with reproducible YAML configs, artifact versioning, and strict train/dev vs. final GT separation, improving reliability and reducing false safety blocks in technical prompts.
+- Led fine-tuning of open-source LLMs (e.g., **Mistral 3.2-24B**, **Qwen-Coder-7B**) with **LoRA/QLoRA** and **Unsloth**; curated/canonicalized datasets with guardrails.  
+- Built domain **code-generation** pipeline for **Lua/Geresim** using **LangChain** and **LangGraph** (structured prompts, helper assertions), with automated **Python↔Lua (Lupa)** execution and scoring (**pass@1**, runtime success).  
+- Designed **RAG** and tool-calling workflows with deterministic controllers (retries, failure handling) and domain safety constraints for petroleum engineering.  
+- Operated across **OpenAI/Azure OpenAI** and **Vertex AI (Gemini)**; enabled local inference via **vLLM/NIM**; implemented token accounting, model selection, and throughput/latency benchmarking (incl. **TTFT** warm-ups).  
+- Containerized training/inference, reproducible YAML configs, artifact versioning; strict train/dev vs. final GT separation to improve reliability and reduce false safety blocks.
 
-**Instituto Tecgraf - PUC-Rio (April 2023 - February 2024)**<br>
-**Position:** Computer Vision Specialist / Machine Learning Specialist<br>
-**Client**: Shell (Jellyfish project, in collaboration with Kraken)<br>
-**Activities Performed:** Specialized in image segmentation, semantic segmentation, object detection, and diffusion models such as Stable Diffusion and ControlNet, with a focus on state-of-the-art techniques for SAS sonar imagery. Contributed significantly to the Jellyfish project in collaboration with Kraken and Shell, leveraging expertise in computer vision to enhance the accuracy and efficiency of underwater imaging and analysis. This role demanded a deep understanding of both theoretical concepts and practical applications in computer vision, enabling the development of innovative solutions for complex imaging challenges.
+---
 
-**Tribunal de Justiça do Estado de São Paulo**<br>
-**Position:** Escrevente Judiciário <br>
-**Admission:** 21/08/2012 - **Exit:** 10/04/2023
+### Instituto Tecgraf – PUC-Rio · **Computer Vision / ML Specialist**  
+**Apr 2023 – Feb 2024** · **Client:** Shell (Jellyfish project, with Kraken)
 
-**E.E. Julia de Castro Carneiro** <br>
-**Position:** Teacher of Physics and Mathematics <br>
-**Admission:** 02/02/2007 - **Exit:** 07/01/2012
+- Specialized in image & semantic segmentation, object detection, and diffusion models (**Stable Diffusion**, **ControlNet**) for **SAS sonar** imagery.  
+- Delivered production-grade CV pipelines improving underwater imaging accuracy and analysis throughput; bridged advanced research and practical deployment.
 
-**Enterusp pre-university course** <br>
-**Position:** Professor of Physics and Mathematics <br>
-**Admission:** 03/2007 - **Exit:** 12/2007
+---
 
-**NEA “Youth and Adult Education Center”** <br>
-**Faculty of Education of the University of São Paulo (FEUSP)** <br>
-**Position:** Trainee Professor <br>
-**Activities developed at FEUSP, HU (University Hospital) and Museu Paulista da USP (Museu do Ipiranga):** Preparation and correction of didactic material; participation in scientific initiation activities, with a presentation at the 12th SIICUSP (International Symposium of Scientific Initiation at USP); in addition to the activities corresponding to the role of teacher. <br>
-**Admission:** 09/15/03 - **Exit:** 06/03/06
+### Tribunal de Justiça do Estado de São Paulo · **Escrevente Judiciário**  
+**Aug 2012 – Apr 2023**
 
-----------------
+---
 
-### Education
+### E.E. Júlia de Castro Carneiro · **Teacher of Physics and Mathematics**  
+**Feb 2007 – Jan 2012**
 
-**2003 - 2009** <br>
-**University of Sao Paulo (USP)** <br>
-**Institute of Physics at USP (IFUSP)** <br>
-**Graduation in Physics** <br>
+---
 
-----------------
+### Enterusp Pre-University Course · **Professor of Physics and Mathematics**  
+**Mar 2007 – Dec 2007**
 
-### Disciplines Studied at the Master's and Doctoral Level <br>
+---
 
-#### <strong>Institute of Pure and Applied Mathematics (IMPA)</strong> <br>
+### NEA – Youth and Adult Education Center • FEUSP · **Trainee Professor**  
+**Sep 2003 – Jun 2006**  
+Prepared and reviewed didactic material; participated in research/extension at FEUSP, HU, and Museu Paulista (Museu do Ipiranga); presented at the **12th SIICUSP** (USP international undergraduate research symposium).
 
-**Discipline:** Visão Computacional 3D com Redes Neurais <br>
-**Teacher:** Luiz Velho and Tiago Novello <br>
-**Visgraf** <br>
-**Year:** 2/2024 and 2/2022<br>
+---
 
-**Discipline:** Image Processing and trends <br>
-**Teacher:** Luiz Velho <br>
-**Visgraf** <br>
-**Year:** 2/2023 and 2/2022<br>
+## Education
 
-**Discipline:** Markov Chain <br>
-**Teacher:** Milton Jara <br>
-**Year:** summer/2023<br>
+**University of São Paulo (USP), Institute of Physics (IFUSP)**  
+**Undergraduate degree in Physics (2003–2009)**
 
-**Discipline:** Introduction to the Theory of Oscillations and Waves <br>
-**Teacher:** Alexei A. Mailybaev <br>
-**Year:** summer/2023<br>
+---
 
-#### <strong>Institute of Mathematics and Statistics (IME-USP) </strong><br>
+## Graduate-Level Coursework
 
-**Discipline:** Machine Leaning <br>
-**Teacher:** Renato Vicente <br>
-**Year:** 2/2019 <br>
+**IMPA – Instituto de Matemática Pura e Aplicada**  
+- 3D Computer Vision with Neural Networks — *Luiz Velho, Tiago Novello* (2022, 2024)  
+- Image Processing and Trends — *Luiz Velho* (2022, 2023)  
+- Markov Chains — *Milton Jara* (Summer 2023)  
+- Introduction to the Theory of Oscillations and Waves — *Alexei A. Mailybaev* (Summer 2023)
 
-**Discipline:** Introduction to Digital Signal Processing <br>
-**Teacher:** Marcelo Queiroz <br>
-**Year:** 1/2020 <br>
+**IME-USP – Instituto de Matemática e Estatística (USP)**  
+- Machine Learning — *Renato Vicente* (2019/2)  
+- Introduction to Digital Signal Processing — *Marcelo Queiroz* (2020/1)  
+- Applied Probability I — *Claudia Peixoto* (2020/2)  
+- Algorithms for Graphs — *Marcel Kenji* (2021/2)  
+- Data Structures and Manipulation — *Guilherme Mota* (2022/1)
 
-**Discipline:** Applied Probability I <br>
-**Teacher:** Claudia Peixoto <br>
-**Year:** 2/2020 <br>
+---
 
-**Discipline:** Algorithms for Graphs <br>
-**Teacher:** Marcel Kenji <br>
-**Year:** 2/2021 <br>
+## Mini-Courses
 
-**Discipline:** Data Structure and its Manipulation <br>
-**Teacher:** Guilherme Mota <br>
-**Year:** 1/2022 <br>
+- Tiling on the Plane — *Luiz Henrique de Figueiredo, J. Ezequiel Soto S.* (Summer 2021, Visgraf)
 
--------------------
+---
 
-### Mini-Courses <br>
+## Other Courses
 
-**Discipline:** Tiling on the Plan <br>
-**Teacher:** Luiz Henrique de Figueiredo and J. Ezequiel Soto S.<br>
-**Visgraf** <br>
-**Year:** summer/2021 <br>
+- Bayesian Methods for Machine Learning — *HSE University (Russia)* (2022/2)
 
-------------------------
+---
 
-### Other Courses <br>
+## Languages
 
-**Discipline:** Bayesian Methods for Machine Learning <br>
-**HSE University - Russia** <br>
-**Year:** 2/2022 <br>
+- **Portuguese:** Native  
+- **English:** Upper-intermediate (Cultura Inglesa – Level I3, current)
 
---------------------------
-
-### Additional
-
-**Brazilian Portuguese:** Native <br>
-**English:** intermediary 3 (Cultura Inglesa) - Current <br>
