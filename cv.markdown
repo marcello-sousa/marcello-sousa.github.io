@@ -35,12 +35,14 @@ Passionate about machine learning and image processing, eager to apply these to 
 
 ### Related Work Experience
 
-**Tecgraf - PUC-Rio (since February 2024)**<br>
+**Insituto Tecgraf - PUC-Rio (since February 2024)**<br>
 **Position:** LLM / Generative AI Specialist<br>
+**Client:** Petrobras (domain code generation & RAG initiatives)<br>
 **Activities Performed:** Led fine-tuning and adaptation of open-source LLMs (e.g., Mistral 3.2-24B, Qwen-Coder-7B) using LoRA/QLoRA and Unsloth; curated and canonicalized datasets with robust guardrails. Built a domain-specific **code generation** pipeline for Lua/Geresim using **LangChain** and **LangGraph**, with structured prompts, helper assertions, and automatic Python↔Lua (Lupa) execution and evaluation (pass@1, runtime success). Designed **RAG** and tool-calling workflows with deterministic controllers (retries, failure handling) and domain safety constraints for petroleum engineering contexts. Operated across **OpenAI/Azure OpenAI** and **Vertex AI (Gemini)**, plus local inference via **vLLM/NIM**, implementing token accounting, model selection, and throughput/latency benchmarking (including TTFT warm-ups). Containerized training/inference with reproducible YAML configs, artifact versioning, and strict train/dev vs. final GT separation, improving reliability and reducing false safety blocks in technical prompts.
 
-**Tecgraf - PUC-Rio (since April 2023)**<br>
+**Instituto Tecgraf - PUC-Rio (April 2023 - February 2024)**<br>
 **Position:** Computer Vision Specialist / Machine Learning Specialist<br>
+**Client**: Shell (Jellyfish project, in collaboration with Kraken)<br>
 **Activities Performed:** Specialized in image segmentation, semantic segmentation, object detection, and diffusion models such as Stable Diffusion and ControlNet, with a focus on state-of-the-art techniques for SAS sonar imagery. Contributed significantly to the Jellyfish project in collaboration with Kraken and Shell, leveraging expertise in computer vision to enhance the accuracy and efficiency of underwater imaging and analysis. This role demanded a deep understanding of both theoretical concepts and practical applications in computer vision, enabling the development of innovative solutions for complex imaging challenges.
 
 **Tribunal de Justiça do Estado de São Paulo**<br>
