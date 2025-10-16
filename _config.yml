@@ -21,10 +21,9 @@
 title: Home
 email: marcelo.sousa@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
- This blog serves as a platform to present the Image Processing course offered by IMPA, 
- guided by Professor Luiz Velho. Its purpose is to foster an interest in applying image 
- processing techniques to works of art and to share insights into the latest research 
- developments in this area.
+ This blog showcases the Image Processing course at IMPA, led by Professor Luiz Velho. 
+ It aims to spark interest in applying image-processing techniques to works of art and 
+ to share insights from current research in the field.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: marcello-sousa
