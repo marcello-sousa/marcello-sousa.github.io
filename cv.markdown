@@ -10,7 +10,7 @@ permalink: /cv/
 **Phone:** +55 (11) 2566-6883 • +55 (11) 98326-7781  
 **Location:** Brazil
 
----
+--- <br>
 
 ## Professional Summary
 
