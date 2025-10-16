@@ -10,15 +10,13 @@ permalink: /cv/
 **Phone:** +55 (11) 2566-6883 • +55 (11) 98326-7781  
 **Location:** Brazil
 
-> *Note: For international applications, you can omit Date of Birth and Marital Status.*
-
 ---
 
 ## Professional Summary
 
 Machine Learning specialist with combined experience in **Computer Vision** (SAS sonar, segmentation, detection, diffusion models) and **LLM/Generative AI** (fine-tuning, RAG, LangChain/LangGraph, code generation). Strong track record taking research to production: dataset quality and guardrails, reproducible training, rigorous evaluation (**pass@1**, latency/TTFT, tokens/s), and containerized deployments on NVIDIA GPUs. Client-facing delivery for **Shell** (CV) and **Petrobras** (LLM).
 
----
+--- <br>
 
 ## Skills
 
@@ -30,11 +28,11 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 - **CV/Diffusion:** Stable Diffusion, ControlNet; semantic/instance segmentation; object detection  
 - **Cloud & APIs:** OpenAI / Azure OpenAI, Vertex AI (Gemini)
 
----
+--- <br>
 
 ## Work Experience
 
-### Instituto Tecgraf – PUC-Rio · **LLM / Generative AI Specialist**  
+#### Instituto Tecgraf – PUC-Rio · **LLM / Generative AI Specialist**  
 **Feb 2024 – Present** · **Client:** Petrobras (domain code generation & RAG)
 
 - Led fine-tuning of open-source LLMs (e.g., **Mistral 3.2-24B**, **Qwen-Coder-7B**) with **LoRA/QLoRA** and **Unsloth**; curated/canonicalized datasets with guardrails.  
@@ -45,7 +43,7 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 
 ---
 
-### Instituto Tecgraf – PUC-Rio · **Computer Vision / ML Specialist**  
+#### Instituto Tecgraf – PUC-Rio · **Computer Vision / ML Specialist**  
 **Apr 2023 – Feb 2024** · **Client:** Shell (Jellyfish project, with Kraken)
 
 - Specialized in image & semantic segmentation, object detection, and diffusion models (**Stable Diffusion**, **ControlNet**) for **SAS sonar** imagery.  
@@ -53,22 +51,22 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 
 ---
 
-### Tribunal de Justiça do Estado de São Paulo · **Escrevente Judiciário**  
+#### Tribunal de Justiça do Estado de São Paulo · **Escrevente Judiciário**  
 **Aug 2012 – Apr 2023**
 
 ---
 
-### E.E. Júlia de Castro Carneiro · **Teacher of Physics and Mathematics**  
+#### E.E. Júlia de Castro Carneiro · **Teacher of Physics and Mathematics**  
 **Feb 2007 – Jan 2012**
 
 ---
 
-### Enterusp Pre-University Course · **Professor of Physics and Mathematics**  
+#### Enterusp Pre-University Course · **Professor of Physics and Mathematics**  
 **Mar 2007 – Dec 2007**
 
 ---
 
-### NEA – Youth and Adult Education Center • FEUSP · **Trainee Professor**  
+#### NEA – Youth and Adult Education Center • FEUSP · **Trainee Professor**  
 **Sep 2003 – Jun 2006**  
 Prepared and reviewed didactic material; participated in research/extension at FEUSP, HU, and Museu Paulista (Museu do Ipiranga); presented at the **12th SIICUSP** (USP international undergraduate research symposium).
 
