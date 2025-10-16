@@ -68,7 +68,7 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 --- 
 <br>
 
-#### Enterusp Pre-University Course · **Professor of Physics and Mathematics**  
+#### Enterusp Pre-University Course · **Teacher of Physics and Mathematics**  
 **Mar 2007 – Dec 2007**
 
 --- 
