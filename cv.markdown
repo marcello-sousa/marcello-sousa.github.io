@@ -47,11 +47,14 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 --- 
 <br>
 
-#### Instituto Tecgraf – PUC-Rio · **Computer Vision / ML Specialist**  
-**Apr 2023 – Feb 2024** · **Client:** Shell (Jellyfish project, with Kraken)
+**Apr 2023 – Feb 2024 · Client: Shell (Jellyfish project, with Kraken)**
 
-- Specialized in image & semantic segmentation, object detection, and diffusion models (**Stable Diffusion**, **ControlNet**) for **SAS sonar** imagery.  
-- Delivered production-grade CV pipelines improving underwater imaging accuracy and analysis throughput; bridged advanced research and practical deployment.
+- Collaborated directly with **Shell** on the **Jellyfish** project (with **Kraken**), integrating CV/ML into subsea inspection workflows using an **autonomous underwater vehicle (AUV)** equipped with **Synthetic Aperture Sonar (SAS)**.
+- Built **synthetic seafloor SAS datasets** with **Stable Diffusion** and **Latent Diffusion Models** (incl. **ControlNet**), employing domain randomization and sensor-aware noise/backscatter to match real mission conditions.
+- Trained and validated **semantic segmentation** and **object detection** models (U-Net variants and modern encoder–decoder backbones) robust to clutter, low SNR, and multipath artifacts—reducing false positives and improving target consistency across missions.
+- Designed an end-to-end **data pipeline**: curation/annotation, class balancing, SAS-specific augmentations, real-plus-synthetic mixing, scenario-based evaluation, and reproducible documentation.
+- **Productionized CV pipelines** for batch processing of AUV missions (experiment tracking, dataset/model versioning, containerized deployment) and collaborated with Shell/Kraken to integrate outputs with existing analysis tools—bridging advanced research and practical delivery.
+
 
 --- 
 <br>
