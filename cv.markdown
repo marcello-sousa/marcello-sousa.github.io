@@ -35,7 +35,7 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 
 ## Work Experience
 
-#### Instituto Tecgraf – PUC-Rio · **LLM / Generative AI Specialist**  
+#### Instituto Tecgraf – PUC-Rio · **LLM and Computer Vision/ Generative AI Specialist**  
 **Feb 2024 – Present** · **Client:** Petrobras (domain code generation & RAG)
 
 - Led fine-tuning of open-source LLMs (e.g., **Mistral 3.2-24B**, **Qwen-Coder-7B**) with **LoRA/QLoRA** and **Unsloth**; curated/canonicalized datasets with guardrails.  
