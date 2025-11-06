@@ -23,7 +23,7 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 ## Skills
 
 - **Programming:** Python, Java, C++, C, Lua, SQL, Bash, Git  
-- **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Diffusers, Transformers  
+- **ML/AI**: JAX, PyTorch, TensorFlow, scikit-learn, OpenCV, Diffusers, Transformers, Physics-Informed Neural Networks (PINNs), automatic differentiation (autodiff), scientific ML for PDEs
 - **LLM/GenAI:** Fine-tuning (LoRA/QLoRA, Unsloth), LangChain, LangGraph, Nemo, NIM, prompt design, RAG, tool-calling, evaluation (pass@1, perplexity)  
 - **Data & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Dev & MLOps:** Docker, NVIDIA GPUs (A100/RTX), Triton, Tensor RT, YAML config pipelines, artifact/version management  
@@ -95,12 +95,14 @@ Prepared and reviewed didactic material; participated in research/extension at F
 ## Graduate-Level Coursework
 
 **IMPA – Instituto de Matemática Pura e Aplicada**  
-- 3D Computer Vision with Neural Networks — *Luiz Velho, Tiago Novello* (2022, 2024)  
-- Image Processing and Trends — *Luiz Velho* (2022, 2023)  
+- 3D Computer Vision with Neural Networks (Gaussian Splatting and NeRF) — *Luiz Velho, Tiago Novello* (2024)  
+- Image Processing and Trends (Multimodal Models and Neural Implicit Representation) — *Luiz Velho* (2022, 2023)  
 - Markov Chains — *Milton Jara* (Summer 2023)  
 - Introduction to the Theory of Oscillations and Waves — *Alexei A. Mailybaev* (Summer 2023)
 
 **IME-USP – Instituto de Matemática e Estatística (USP)**  
+- Introduction to Scientific Machine Learning — Prof. Diego Ribeiro Marcondes (2024)
+Focus: Physics-Informed Neural Networks (PINNs) and scientific ML for PDE
 - Machine Learning — *Renato Vicente* (2019/2)  
 - Introduction to Digital Signal Processing — *Marcelo Queiroz* (2020/1)  
 - Applied Probability I — *Claudia Peixoto* (2020/2)  
