@@ -101,7 +101,7 @@ Prepared and reviewed didactic material; participated in research/extension at F
 - Introduction to the Theory of Oscillations and Waves — *Alexei A. Mailybaev* (Summer 2023)
 
 **IME-USP – Instituto de Matemática e Estatística (USP)**  
-- Introduction to Scientific Machine Learning — Prof. Diego Ribeiro Marcondes (2024) <br>
+- Introduction to Scientific Machine Learning — Diego Ribeiro Marcondes (2024) <br>
 Focus: Physics-Informed Neural Networks (PINNs) and scientific ML for PDE
 - Machine Learning — *Renato Vicente* (2019/2)  
 - Introduction to Digital Signal Processing — *Marcelo Queiroz* (2020/1)  
@@ -114,7 +114,7 @@ Focus: Physics-Informed Neural Networks (PINNs) and scientific ML for PDE
 
 ## Mini-Courses
 
-- Tiling on the Plane — *Luiz Henrique de Figueiredo, J. Ezequiel Soto S.* (Summer 2021, Visgraf)
+- Tiling on the Plane — *Luiz Henrique de Figueiredo, J. Ezequiel Soto S.* (Summer 2021, Visgraf, IMPA)
 
 --- 
 <br>
