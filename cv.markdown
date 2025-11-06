@@ -24,11 +24,11 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 
 - **Programming:** Python, Java, C++, C, Lua, SQL, Bash, Git  
 - **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Diffusers, Transformers  
-- **LLM/GenAI:** Fine-tuning (LoRA/QLoRA, Unsloth), LangChain, LangGraph, vLLM, NIM, prompt design, RAG, tool-calling, evaluation (pass@1, perplexity)  
+- **LLM/GenAI:** Fine-tuning (LoRA/QLoRA, Unsloth), LangChain, LangGraph, Nemo, NIM, prompt design, RAG, tool-calling, evaluation (pass@1, perplexity)  
 - **Data & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Dev & MLOps:** Docker, NVIDIA GPUs (A100/RTX), Triton, YAML config pipelines, artifact/version management  
+- **Dev & MLOps:** Docker, NVIDIA GPUs (A100/RTX), Triton, Tensor RT, YAML config pipelines, artifact/version management  
 - **CV/Diffusion:** Stable Diffusion, ControlNet; semantic/instance segmentation; object detection  
-- **Cloud & APIs:** OpenAI / Azure OpenAI, Vertex AI (Gemini)
+- **Cloud & APIs:** OpenAI / Azure OpenAI, Hugging Face
 
 --- 
 <br>
@@ -39,9 +39,9 @@ Machine Learning specialist with combined experience in **Computer Vision** (SAS
 **Feb 2024 – Present** · **Client:** Petrobras (domain code generation & RAG)
 
 - Led fine-tuning of open-source LLMs (e.g., **Mistral 3.2-24B**, **Qwen-Coder-7B**) with **LoRA/QLoRA** and **Unsloth**; curated/canonicalized datasets with guardrails.  
-- Built domain **code-generation** pipeline for **Lua/Geresim** using **LangChain** and **LangGraph** (structured prompts, helper assertions), with automated **Python↔Lua (Lupa)** execution and scoring (**pass@1**, runtime success).  
+- Built domain **code-generation** pipeline for **Lua** using **LangChain** and **LangGraph** (structured prompts, helper assertions), with automated **Python↔Lua (Lupa)** execution and scoring (**pass@1**, runtime success).  
 - Designed **RAG** and tool-calling workflows with deterministic controllers (retries, failure handling) and domain safety constraints for petroleum engineering.  
-- Operated across **OpenAI/Azure OpenAI** and **Vertex AI (Gemini)**; enabled local inference via **vLLM/NIM**; implemented token accounting, model selection, and throughput/latency benchmarking (incl. **TTFT** warm-ups).  
+- Operated across **OpenAI/Azure OpenAI**; enabled local inference via **NIM** and **Nemo**; implemented token accounting, model selection, and throughput/latency benchmarking (incl. **TTFT** warm-ups).  
 - Containerized training/inference, reproducible YAML configs, artifact versioning; strict train/dev vs. final GT separation to improve reliability and reduce false safety blocks.
 
 --- 
